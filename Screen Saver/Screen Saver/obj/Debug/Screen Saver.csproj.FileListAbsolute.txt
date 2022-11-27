@@ -1,0 +1,12 @@
+H:\University\3rd Semester\C#\Προαιρετικές\Screen Saver\Screen Saver\bin\Debug\Screen Saver.exe.config
+H:\University\3rd Semester\C#\Προαιρετικές\Screen Saver\Screen Saver\bin\Debug\Screen Saver.exe
+H:\University\3rd Semester\C#\Προαιρετικές\Screen Saver\Screen Saver\bin\Debug\Screen Saver.pdb
+H:\University\3rd Semester\C#\Προαιρετικές\Screen Saver\Screen Saver\obj\Debug\Screen Saver.csproj.AssemblyReference.cache
+H:\University\3rd Semester\C#\Προαιρετικές\Screen Saver\Screen Saver\obj\Debug\Screen Saver.csproj.SuggestedBindingRedirects.cache
+H:\University\3rd Semester\C#\Προαιρετικές\Screen Saver\Screen Saver\obj\Debug\Screen_Saver.Form1.resources
+H:\University\3rd Semester\C#\Προαιρετικές\Screen Saver\Screen Saver\obj\Debug\Screen_Saver.Properties.Resources.resources
+H:\University\3rd Semester\C#\Προαιρετικές\Screen Saver\Screen Saver\obj\Debug\Screen Saver.csproj.GenerateResource.cache
+H:\University\3rd Semester\C#\Προαιρετικές\Screen Saver\Screen Saver\obj\Debug\Screen Saver.csproj.CoreCompileInputs.cache
+H:\University\3rd Semester\C#\Προαιρετικές\Screen Saver\Screen Saver\obj\Debug\Screen Saver.exe
+H:\University\3rd Semester\C#\Προαιρετικές\Screen Saver\Screen Saver\obj\Debug\Screen Saver.pdb
+H:\University\3rd Semester\C#\Προαιρετικές\Screen Saver\Screen Saver\obj\Debug\Screen_Saver.ScreenSaver.resources
